@@ -16,3 +16,7 @@ A compact, MCU-free USB Power Delivery trigger board. The CH224K negotiates the 
 > CFG pin config for 5V needs to be added.
 
 **Roadmap:** V2 will add an STM32 and OLED display for MCU-controlled voltage selection.
+
+**Libraries used:**
+> kicad default - most of the packages.
+> sparkfun - USB type C receptacle (needs to be installed via kicad's plugin & library manager).
