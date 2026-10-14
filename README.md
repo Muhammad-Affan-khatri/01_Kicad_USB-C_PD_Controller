@@ -10,13 +10,20 @@ A compact, MCU-free USB Power Delivery trigger board. The CH224K negotiates the 
 **Output:** 4 mm banana jacks (VBUS/GND)
 **Tools:** KiCad, 2-layer PCB, targeted at JLCPCB fabrication
 
-**Status:** Design stage. The schematic and layout are drawn but not yet fabricated or tested. 
-
-**Key Fixes under current observation:** 
-> CFG pin config for 5V needs to be added.
+**Status:** Design stage Completed. The schematic and layout are drawn complete but not yet fabricated or tested physically. 
 
 **Roadmap:** V2 will add an STM32 and OLED display for MCU-controlled voltage selection.
 
 **Libraries used:**
 1) kicad default - most of the packages.
 2) sparkfun - USB type C receptacle (needs to be installed via kicad's plugin & library manager).
+
+
+# Schematics Capture
+![Schematics](images/Schematics_Capture.png)
+
+# PCB Design
+![PCB Design](images/PCB_Design.png)
+
+# 3D Model
+![alt text](images/3D-MODEL.png)

@@ -2063,6 +2063,58 @@
 		)
 		(uuid "e7f5bb78-6735-4027-a145-a4305a5e38e7")
 	)
+	(text "UCB-C INPUT\n"
+		(exclude_from_sim no)
+		(at 36.576 55.372 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "2a438505-9e84-40f8-a7c4-6c1b32439eb8")
+	)
+	(text "CH224K LAYOUT"
+		(exclude_from_sim no)
+		(at 96.774 55.626 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "4b796d63-3d50-4358-9d8d-43b25dc57995")
+	)
+	(text "JUMPER SETTING\n"
+		(exclude_from_sim no)
+		(at 179.324 55.372 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "7c2fe88c-ad48-4fa5-baa1-fdc87a484b72")
+	)
+	(text "OUTPUT\n"
+		(exclude_from_sim no)
+		(at 229.616 55.372 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "8f217c39-e332-43ad-9db2-c6b31b03fec3")
+	)
 	(junction
 		(at 111.76 68.58)
 		(diameter 0)
